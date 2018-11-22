@@ -1,0 +1,22 @@
+{
+  "name": "nodejs-electron-project",
+  "version": "0.1.0",
+  "description": "My first node.js electron interface project",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/marcosrachid/nodejs-electron-project.git"
+  },
+  "author": "Marcos Rachid",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/marcosrachid/nodejs-electron-project/issues"
+  },
+  "homepage": "https://github.com/marcosrachid/nodejs-electron-project#readme",
+  "devDependencies": {
+    "electron": "^3.0.10"
+  }
+}
